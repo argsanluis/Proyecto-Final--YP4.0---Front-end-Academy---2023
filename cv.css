@@ -1,6 +1,6 @@
 @ -13,6 +13,8 @@ body{
     background-color: hsl(240, 29%, 17%);
-    background-image: url(../assets/bg-texture.png);
+    background-image: url(textura.png);
     color: whitesmoke;
     /*background: linear-gradient(rgba(0, 0, 255, 0.267), rgba(255, 0, 0, 0.185));*/
 
